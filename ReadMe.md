@@ -31,5 +31,7 @@ considering that sum and difference of x,y are strictly integers . Although you 
 Do weather situations affect bike renting behaviours . Show me visually . Consider columns [ temp , hum , windspeed and `cnt`]
 
 
-
+  
+  
+  
   
